@@ -6,8 +6,3 @@ class Cat
   end
 end
 
-def meow
-  @meow
-  puts "meow!"
-end
-end
